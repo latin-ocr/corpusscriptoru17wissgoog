@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusscriptoru17wissgoog_0260.png"; bbox 0 0 3125 4942; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 588 2322 1157 2467">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 588 2322 1157 2467">
+     <span class='ocr_line' id='line_1_1' title="bbox 588 2322 1157 2381; baseline 0.002 -4"><span class='ocrx_word' id='word_1_1' title='bbox 588 2323 633 2377; x_wconf 87' lang='lat' dir='ltr'>Br</span> <span class='ocrx_word' id='word_1_2' title='bbox 649 2348 684 2370; x_wconf 96' lang='lat'><strong><em>=</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 704 2323 762 2381; x_wconf 86' lang='lat' dir='ltr'>cod.</span> <span class='ocrx_word' id='word_1_4' title='bbox 781 2323 963 2378; x_wconf 83' lang='lat' dir='ltr'>Bruxellensis</span> <span class='ocrx_word' id='word_1_5' title='bbox 981 2324 1052 2377; x_wconf 87' lang='grc'>2922</span> <span class='ocrx_word' id='word_1_6' title='bbox 1071 2341 1092 2377; x_wconf 77' lang='grc' dir='ltr'>ε.</span> <span class='ocrx_word' id='word_1_7' title='bbox 1112 2322 1157 2379; x_wconf 78' lang='lat' dir='ltr'>lx,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 589 2411 1147 2467; baseline 0 -2"><span class='ocrx_word' id='word_1_8' title='bbox 589 2412 627 2465; x_wconf 80' lang='lat' dir='ltr'><strong><em>M</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 649 2437 682 2457; x_wconf 98' lang='lat'><strong><em>=</em></strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 701 2411 759 2467; x_wconf 85' lang='lat' dir='ltr'>cod.</span> <span class='ocrx_word' id='word_1_11' title='bbox 778 2412 949 2467; x_wconf 77' lang='lat' dir='ltr'>Monacensis</span> <span class='ocrx_word' id='word_1_12' title='bbox 969 2412 1055 2467; x_wconf 84' lang='grc'><strong>19149</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1075 2428 1095 2466; x_wconf 86' lang='lat' dir='ltr'>s.</span> <span class='ocrx_word' id='word_1_14' title='bbox 1115 2412 1147 2466; x_wconf 86' lang='lat' dir='ltr'>X.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 590 2500 1134 2577">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 590 2500 1134 2577">
+     <span class='ocr_line' id='line_1_3' title="bbox 590 2500 1134 2577; baseline 0.002 -23"><span class='ocrx_word' id='word_1_15' title='bbox 590 2501 629 2577; x_wconf 33' lang='grc' dir='ltr'>Β,</span> <span class='ocrx_word' id='word_1_16' title='bbox 649 2524 683 2547; x_wconf 89' lang='lat'>=</span> <span class='ocrx_word' id='word_1_17' title='bbox 703 2500 761 2555; x_wconf 86' lang='lat' dir='ltr'><strong>cod.</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 780 2501 926 2555; x_wconf 77' lang='lat' dir='ltr'>Beruensis</span> <span class='ocrx_word' id='word_1_19' title='bbox 944 2518 971 2554; x_wconf 90' lang='lat' dir='ltr'>n.</span> <span class='ocrx_word' id='word_1_20' title='bbox 991 2500 1043 2555; x_wconf 82' lang='lat'>582</span> <span class='ocrx_word' id='word_1_21' title='bbox 1063 2518 1084 2555; x_wconf 89' lang='lat' dir='ltr'>s.</span> <span class='ocrx_word' id='word_1_22' title='bbox 1102 2501 1134 2555; x_wconf 84' lang='lat' dir='ltr'>X.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1568 4942">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1568 4942">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1568 4942; baseline 0 0"><span class='ocrx_word' id='word_1_23' title='bbox 0 0 1568 4942; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

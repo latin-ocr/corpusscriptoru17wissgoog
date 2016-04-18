@@ -1,0 +1,8 @@
+P = codex Parisinus 13048 s.1x
+Y = codex vindobonensis 458 o. X
+
+Z = codex Turicinus 73 s. X
+Br == codex Bruxellcnoio 29211'22 s. lx
+
+ 
+

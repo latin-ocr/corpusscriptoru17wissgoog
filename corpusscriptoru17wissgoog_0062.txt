@@ -1,0 +1,6 @@
+P = codex Parisinus 4808 s. VIIII
+V = codex Veronensis LII (50) u. X
+S = codex sangallensis s. VIIII
+
+ 
+
